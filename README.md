@@ -16,7 +16,6 @@ I believe in learning by building, solving practical problems and continuously i
 - ⚙️ Experienced with REST APIs, background processing, databases and application deployment.
 - 💬 Ask me about Python, Django, FastAPI, PostgreSQL, Redis and backend engineering.
 - 🎯 Interested in building scalable, reliable and maintainable software.
-- 📫 Connect with me: [LinkedIn](YOUR_LINKEDIN_URL) · [Email](YOUR_EMAIL)
 
 ---
 
@@ -126,7 +125,7 @@ I'm always interested in connecting with developers, exploring interesting techn
   <a href="https://github.com/saojiashutosh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/ashutosh-saoji-164b86276/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
