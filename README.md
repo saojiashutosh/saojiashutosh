@@ -50,7 +50,7 @@ I believe in learning by building, solving practical problems and continuously i
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Frontend & Other Technologies - Just Exploring thorugh little vibe coding** 
+**Frontend & Other Technologies — Exploring Through Personal Projects and Vibe Coding**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -102,18 +102,6 @@ A Django-based online shopping platform focused on cameras and photography acces
 A blogging application where users can create, update and delete blog posts using Django forms, model forms and database-backed functionality.
 
 **Tech:** Python, Django, SQLite, HTML, CSS.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=saojiashutosh&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=saojiashutosh&layout=compact&theme=tokyonight&hide_border=true)" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=saojiashutosh&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
